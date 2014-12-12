@@ -26,7 +26,6 @@
         margin: 5px 50px;
         width: 60px;
         height: 60px;
-        box-shadow: ;
         border-width: 5px;
         border-color: rgba(51, 51, 51, 0.31);
         border-radius: 100%;
@@ -37,6 +36,10 @@
     .slideimg {
         width: 1086px;
         height: 431px;
+    }
+    #btntop {
+        border-width: 3px;
+        border-color: rgba(51, 51, 51, 0.31);
     }
     .introduce, .info {
         font-size: 18px;

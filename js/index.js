@@ -15,13 +15,13 @@
      });
  });
  $(function() {
-     $('#lastli').click(function(e) {
-         $('#lastli').addClass('active');
-     });
- });
- $(function() {
      $('#btntop').click(function(e) {
          $('.nav li').removeClass('active');
          $('#firstli').addClass('active');
+     });
+ });
+ $(function() {
+     $('#lastli').click(function(e) {
+         $('#lastli').addClass('active');
      });
  });
